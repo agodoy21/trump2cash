@@ -14,8 +14,8 @@ from logs import Logs
 
 # The keys for the Twitter account we're using for API requests and tweeting
 # alerts (@Trump2Cash). Read from environment variables.
-TWITTER_ACCESS_TOKEN = getenv("TWITTER_ACCESS_TOKEN")
-TWITTER_ACCESS_TOKEN_SECRET = getenv("TWITTER_ACCESS_TOKEN_SECRET")
+TWITTER_ACCESS_TOKEN = getenv("402386589-mjRUkYdVaAaZlkZ2UPbUMmErHReTpNvy4sDtwUEb")
+TWITTER_ACCESS_TOKEN_SECRET = getenv("5ErFpT8jPKx6LlyxulRAZcOpV35C8U0MSE42f1MtRtIf6")
 
 # The keys for the Twitter app we're using for API requests
 # (https://apps.twitter.com/app/13239588). Read from environment variables.
